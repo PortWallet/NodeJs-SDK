@@ -2,11 +2,11 @@
 
 ### Installation
 ```
-npm install portwallet
+npm install @portwallet/nodejs-sdk
 ```
 or 
 ```
-yarn add portwallet
+yarn add @portwallet/nodejs-sdk
 ```
 
 ### Usage
